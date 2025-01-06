@@ -5,5 +5,5 @@
 >
 > **Example (in 2025):**
 >
-> - `Copyright (c) 2022-2024 Jim Philip` - Not yet public domain (eligible in 2026)
-> - `Copyright (c) 2022-2023 Jim Philip` – Now public domain (license not updated for 2 years)
+> - `Copyright (c) 2022-2024 Jim Philip` - _Not yet public domain (eligible in 2026)_
+> - `Copyright (c) 2022-2023 Jim Philip` – _Now public domain (license not updated for 2 years)_
